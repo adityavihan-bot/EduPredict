@@ -43,6 +43,7 @@ Model Training
 Prediction Generation
 Streamlit Web Deployment
 🌐 Live Demo
+
 🔗 Streamlit App Link:
 http://localhost:8501
 
