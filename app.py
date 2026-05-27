@@ -30,4 +30,3 @@ if st.button("Predict End Examination Mark"):
         st.success("Excellent! Their are more than 90% chances to get a good mark.")
     else:
         st.success(f"Predicted End Examination Mark: {predicted_mark[0]:,.2f}")
-        st.bar_chart({"Predicted Mark":[predicted_mark[0]]})
