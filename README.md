@@ -43,7 +43,6 @@ Model Training
 Prediction Generation
 Streamlit Web Deployment
 🌐 Live Demo
-
 🔗 Streamlit App Link:
 http://localhost:8501
 
@@ -59,7 +58,7 @@ https://github.com/adityavihan-bot/EduPredict
 
 Clone the repository:
 
-git clone https://github.com/yourusername/EduPredict.git
+git clone https://github.com/adityavihan-bot/EduPredict.git
 
 Install dependencies:
 
